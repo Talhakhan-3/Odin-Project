@@ -1,0 +1,30 @@
+body {
+  background: gray;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 400px;
+  background: white;
+  margin: 16px auto;
+}
+.title {
+    font-size: 16px;
+}
+.content{
+    margin: 16 px auto;
+}
+.button-container{
+    margin: 16 px auto;
+}
+
+.title,
+.content,
+.button-container {
+  background: dodgerblue;
+}
+
+button {
+  text-align:center;
+  background: white;
+}

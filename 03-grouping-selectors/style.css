@@ -1,0 +1,18 @@
+.iam
+{
+     color: white;
+     background-color: black;
+
+}
+
+.noi
+{
+    color: black;
+    background-color: yellow;
+}
+
+.iam,.noi
+{
+    font-size: 28;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}

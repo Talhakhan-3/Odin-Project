@@ -1,0 +1,30 @@
+.same{
+    font-size: 18px;
+    
+}
+
+p
+{
+    color: black;
+    background-color: rgb(239, 132, 144);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.different
+{
+    font-size: 24px;
+}
+
+.samebutdiff
+{
+    color :black;
+    background-color: rgb(11, 240, 41);
+    font-size: 24px;
+
+}
+
+#unique
+{
+    font-size: 36px ;
+    color: blue;
+}
